@@ -12,4 +12,4 @@ Postman
 Intellij 
 
 # Additional Files
-Postman Collection is also can be found in Repository.
+Postman Collection is also can be found in the Repository.
